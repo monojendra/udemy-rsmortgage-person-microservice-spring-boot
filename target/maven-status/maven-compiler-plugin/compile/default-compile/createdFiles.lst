@@ -1,0 +1,14 @@
+com/rollingstone/domain/RESTAPIErrorInfo.class
+com/rollingstone/SpringBootPersonMicroservice.class
+com/rollingstone/exception/HTTP404Exception.class
+com/rollingstone/service/ServiceProperties.class
+com/rollingstone/service/PersonServiceHealth.class
+com/rollingstone/exception/HTTP400Exception.class
+com/rollingstone/service/PersonEventListener.class
+com/rollingstone/service/PersonService.class
+com/rollingstone/service/PersonServiceEvent.class
+com/rollingstone/api/rest/AbstractRestHandler.class
+com/rollingstone/api/rest/PersonController.class
+com/rollingstone/RestControllerAspect.class
+com/rollingstone/domain/Person.class
+com/rollingstone/dao/jpa/PersonRepository.class
